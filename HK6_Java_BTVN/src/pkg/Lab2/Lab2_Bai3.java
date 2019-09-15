@@ -12,7 +12,7 @@ public class Lab2_Bai3 {
 			tienDien = dienSuDung * 1000;
 		}
 		else {
-			tienDien = dienSuDung * 1200;
+			tienDien  = 50*1000 + (dienSuDung - 50)*1200;
 		}
 		
 		System.out.println("Tổng tiên: "+tienDien);

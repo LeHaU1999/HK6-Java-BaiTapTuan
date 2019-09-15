@@ -12,10 +12,10 @@ public class Main {
 		do {
 			System.out.println("Menu");
 			System.out.println("0 - Thoat");
-			System.out.println("1 - Bai 1");
-			System.out.println("2 - Bai 2");
-			System.out.println("3 - Bai 3");
-			System.out.println("4 - Bai 4");
+			System.out.println("1 - Bai 1: Thông Tin Học Sinh");
+			System.out.println("2 - Bai 2: Chu Vi, Diện Tích HCN Hình Chữ Nhật");
+			System.out.println("3 - Bai 3: Thể Tích Khối Lập Phương");
+			System.out.println("4 - Bai 4: Phương Trình Bậc 2");
 			System.out.println("Mời Bạn Chọn: ");
 			
 			int luaChon = Integer.parseInt(sc.nextLine());
